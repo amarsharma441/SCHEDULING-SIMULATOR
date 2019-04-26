@@ -8,3 +8,5 @@ d. Time taken to complete the process.
 e. Number of times the process waited for I/O. 
 f. The priority of the process and preferred scheduling algorithm.
 After printing the above values print the average time of completion for processes.
+
+![](Input1.png)
